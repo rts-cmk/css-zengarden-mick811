@@ -41,3 +41,44 @@ Under præsentationen skal du:
 - Hvor tæt dit design ligger på det valgte i **desktop-visning**.
 - Din evne til at analysere og genskabe layout og stil ud fra en visuel reference.
 - **Valgfrit**: Bonus for mobilvenligt design.
+
+## Mit valgte design
+
+Jeg har valgt at prøve at replikere design **#175 – "Business Style"** fra CSS Zen Garden: [https://csszengarden.com/175/](https://csszengarden.com/175/)
+
+## Sådan genskaber du dette repo
+
+### Sådan genskaber du dette repo
+
+1. **Klon repoet**
+   
+   Åbn Command Prompt og kør:
+   ```
+   git clone <repo-url>
+   ```
+   Erstat `<repo-url>` med adressen til dette repository.
+
+2. **Navigér til mappen**
+   ```
+   cd <mappenavn>
+   ```
+   Erstat `<mappenavn>` med navnet på den mappe, der blev oprettet ved kloning.
+
+3. **Åbn HTML-filen i din browser**
+   
+   Find HTML-filen (typisk `index.html`) og åbn den i din browser for at se designet.
+
+4. **Redigér CSS-filen**
+   
+   Lav dine ændringer i `style.css` for at genskabe det valgte design.
+
+5. **(Valgfrit) Slet repo-mappen igen**
+   
+   Hvis du vil fjerne mappen fra din computer, brug:
+   ```
+   del index.html
+   del style.css
+   rmdir <mappenavn>
+   ```
+
+**Bemærk:** Alt arbejde foregår i CSS-filen. HTML-filen må ikke ændres.
