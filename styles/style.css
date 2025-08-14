@@ -7,6 +7,14 @@
 
 /* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
 
+.extra1 {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	width: 2.5rem;
+	height: 2.5rem;
+	background: red
+}
 
 /* basic elements */
 body {
