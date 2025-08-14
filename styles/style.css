@@ -158,6 +158,7 @@ a {
 	display: inline;
 	font-size: 0.75rem;
 	color: #333;
+	text-decoration: none;
 }
 
 .design-archives h3.archives {
@@ -165,6 +166,30 @@ a {
 	width: 4.3125rem;
 	height: 0.9375rem;
 	margin: 1.875rem 0 0.3125rem 2.5rem;
+}
+
+.design-archives ul {
+	list-style: none;
+}
+
+.design-archives ul li {
+	border-bottom: 0.0625rem solid #E6EEF0;
+}
+
+.design-selection ul {
+	list-style: none;
+}
+
+.design-selection ul li {
+	border-bottom: 0.0625rem solid #E6EEF0;
+}
+
+.zen-resources ul {
+	list-style: none;
+}
+
+.zen-resources ul li {
+	border-bottom: 0.0625rem solid #E6EEF0;
 }
 
 .zen-resources h3.resources {

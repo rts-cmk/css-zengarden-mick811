@@ -4,8 +4,8 @@ let idx = 0;
 document.addEventListener('click', (e) => {
 
     // if the click is clicked at the header
-    const header = document.querySelector('header[role="banner"]');
-    if(header.contains(e.target)) {
+    const extra1 = document.querySelector('.extra1');
+    if(!extra1.contains(e.target)) {
         e.preventDefault();
 
         // increment the index and set the new stylesheet to "styles/" + arr[idx]
